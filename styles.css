@@ -1,0 +1,14 @@
+@import url(Modificadores/Navegacion.css);
+@import url(Navegacion.css);
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: aliceblue;
+}
