@@ -1,7 +1,8 @@
 @import url(Modificadores/Navegacion.css);
 @import url(Navegacion.css);
 
-
+@import url(Modificadores/Barra.css);
+@import url(Barra.css);
 *{
   padding: 0;
   margin: 0;
