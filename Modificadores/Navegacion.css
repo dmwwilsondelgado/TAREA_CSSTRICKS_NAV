@@ -9,12 +9,16 @@ header {
   align-items: center;
 }
 
-.logo {
+.logo   {
   font-size: 1.5em;
   font-weight: bold;
   color: #fff;
+  
 }
-
+.Logo-primary{
+  width: 100px;
+  height: 100px;
+}
 .nav-links {
   list-style: none;
   display: flex;
